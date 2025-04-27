@@ -9,6 +9,9 @@ Python scripts or notebooks related to mathematical problems.
 # Tools Used:
 
 - Python
+- Numpy
+- Pandas
+- Matplotlib
 - Jupyter Notebook
   
 # Purpose:
